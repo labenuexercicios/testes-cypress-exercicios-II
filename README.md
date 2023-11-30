@@ -19,3 +19,4 @@ Escolha uma tela ou página da aplicação e faça pelo menos 3 testes de funcio
 
 Escolha outra tela ou página da aplicação e faça pelo menos mais 3 testes de funcionalidades, como visto no material.
 - caso seu aplicativo escolhido só tenha uma tela ou página que já foi testada no exercício 2, crie mais testes para ele ou então escolha outro aplicativo para testar
+- use pelo menos uma seleção .get() com ```data-testid```
